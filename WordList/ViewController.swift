@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func startButtonTapped() {
+        
         let saveData = UserDefaults.standard
         
         if let wordArray = saveData.array(forKey: "WORD") {

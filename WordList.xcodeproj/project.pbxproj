@@ -124,10 +124,10 @@
 				F984E6362258F3270037E9A7 /* FinishViewController.swift */,
 				F984E6382258F3620037E9A7 /* ListTableTableViewController.swift */,
 				F984E63A2258F3870037E9A7 /* AddViewController.swift */,
-				F984E5DC22588F470037E9A7 /* LaunchScreen.storyboard */,
-				F984E5DF22588F470037E9A7 /* Info.plist */,
 				F99D86DE225AD14600101BDC /* ListTableViewCell.swift */,
 				F99D86DF225AD14600101BDC /* ListTableViewCell.xib */,
+				F984E5DC22588F470037E9A7 /* LaunchScreen.storyboard */,
+				F984E5DF22588F470037E9A7 /* Info.plist */,
 			);
 			path = WordList;
 			sourceTree = "<group>";
